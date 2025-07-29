@@ -6,6 +6,13 @@ Feel free to check out my __[resume]()__ for more details.
 
 ## Some facts about me
 
+<ul>
+<li>📚 I’m currently learning software testing with a focus on web, mobile, and API testing.</li>
+<li>🛠️ I work on educational and personal projects to apply my skills in practice.</li>
+<li>💡 I’m deeply interested in both manual and automated testing approaches.</li>
+<li>🎧 In my free time, I enjoy listening to tech podcasts and watching testing-related YouTube channels.</li>
+</ul>
+
 ## Language and Tools
 
 <div align="center">
@@ -35,6 +42,12 @@ Feel free to check out my __[resume]()__ for more details.
 ![VSCode](https://custom-icon-badges.demolab.com/badge/-VSCode-000?style=for-the-badge&logo=vscode-logo&logoColor=fff)
 
 </div>
+
+## Test Artifacts
+
+<ul>
+<li></li>
+</ul>
 
 <h3 align="center">📩 <u><strong>Contact details</strong></u></h3>
 
