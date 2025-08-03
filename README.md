@@ -19,6 +19,7 @@ Feel free to check out my __[resume]()__ for more details.
 
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Tello](https://img.shields.io/badge/-Trello-090909?style=for-the-badge&logo=trello&logoColor=136be1)
+![Miro](https://img.shields.io/badge/-Miro-090909?style=for-the-badge&logo=miro&logoColor=FFD932)
 ![Azure DevOps](https://custom-icon-badges.demolab.com/badge/-Azure%20DevOps-090909?style=for-the-badge&logo=azure%20devops&logoColor=)
 ![You Track](https://custom-icon-badges.demolab.com/badge/-YouTrack-000?style=for-the-badge&logo=youtrack&logoColor=fff)
 ![Qase](https://custom-icon-badges.demolab.com/badge/-Qase-000?style=for-the-badge&logo=Qase&logoColor=fff)
