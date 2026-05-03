@@ -48,7 +48,8 @@ Feel free to check out my __[resume]()__ for more details.
 ## Test Artifacts
 
 <ul>
-<li>[Web-site testing]()</li> – exploratory and functional testing
+<li><a href="https://github.com/olehrsobol/web_testing">Web-site Testing</a></li>
+
 </ul>
 
 <h3 align="center">📩 <u><strong>Contact details</strong></u></h3>
