@@ -48,7 +48,7 @@ Feel free to check out my __[resume]()__ for more details.
 ## Test Artifacts
 
 <ul>
-<li></li>
+<li>[Web-site testing]()</li> – exploratory and functional testing
 </ul>
 
 <h3 align="center">📩 <u><strong>Contact details</strong></u></h3>
@@ -60,3 +60,4 @@ Feel free to check out my __[resume]()__ for more details.
 [![Email](https://custom-icon-badges.demolab.com/badge/-email-000?style=for-the-badge&logo=gmaill&logoColor)](mailto:oleh.sobol.r@gmail.com)
 
 </div>
+
