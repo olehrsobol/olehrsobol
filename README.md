@@ -48,7 +48,7 @@ Feel free to check out my __[resume]()__ for more details.
 ## Test Artifacts
 
 <ul>
-<li><a href="https://github.com/olehrsobol/web_testing">Web-site Testing</a></li>
+<li><a href="https://github.com/olehrsobol/API-Testing">API Testing</a></li>
 
 </ul>
 
